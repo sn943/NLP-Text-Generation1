@@ -65,7 +65,7 @@ jobs:
         ls "-aFlR" /outputs/generatedText
       image: paperspace/transformers-gpu:0.4.0
 
-# Appendix: Extra details
+# Appendix:tra details
 #
 # pip3 install updates transformers from the version on the image to the latest
 # This isn't required, but gives access to more models
