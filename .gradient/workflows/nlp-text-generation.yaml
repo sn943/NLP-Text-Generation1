@@ -52,6 +52,7 @@ jobs:
         apt install wget -y
         lscpu
         sleep 3
+        
         free -h
         nvidia-smi
         sleep 3
